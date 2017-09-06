@@ -2,7 +2,7 @@
 <html >
 <head>
 <meta charset="utf-8">
-<title>NOE ALEJANDRO</title>
+<title>NOE ALEJANDRO LOPEZ LOPEZ</title>
 <body>
 <h2>PAGINA </h2>
 <h2>PRUEBA </h2>
