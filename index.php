@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>NOE ALEJANDRO LOPEZ LOPEZ</title>
 <body>
-<h2>PAGINA </h2>
+<h2>PAGINA PRINCIPAL </h2>
 <h2>PRUEBA </h2>
 </body>
 </html>
